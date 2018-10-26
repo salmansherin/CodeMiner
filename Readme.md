@@ -17,4 +17,7 @@ This program mines a given Java GitHub code repository, analyses all the commits
 
 ## Results
 When the Project execute successfully, It will parse all the commits in the provided repository and compile a CSV file with all the functions with added/modified parameters.
+
+##Testing
+This application is already validated on two repositories, i.e. crawljax and roaster. The generated CSV files from both the repositories are included in this repository with the name [crawljax.csv](https://github.com/salmansherin29/Task-1/blob/master/crawljax.csv) and [roaster.csv](https://github.com/salmansherin29/Task-1/blob/master/roaster.csv) respectively.
  
