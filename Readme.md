@@ -5,7 +5,7 @@ This program mines a given Java GitHub code repository, analyses all the commits
 1. [Download the application](https://github.com/salmansherin29/Task-1/archive/master.zip)
 2. Extract the downloaded contents into a directory.
 3. Open [Netbeans](https://netbeans.org/) and open the project by navigating into File -> Open Project
-4. After you open the project, Open the `MyStudy.java` file by double clicking on that file from the Project explorer on the left side.
+4. After you open the project, Open the `MyStudy.java` file in "src/main/java/com/mycompany/mavenproject1/" by double clicking on that file from the Project explorer on the left side.
 5. Change the Repository URl in the file on line 24 for example
 6. `.in(GitRepository.singleProject("Path/to/repo/url"))`
 7. and Change the Output CSV file directory in the line # 26 for example
